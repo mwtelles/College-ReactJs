@@ -70,11 +70,12 @@
     justify-content: center;
     align-items: center;
     font-size: 15px;
-    line-height: 14px;
     border-radius: 5px;
     margin-top: 20px;
     border: 0;
 }
+
+
 
 .contact:hover {
     background-color: #2ec4b6;

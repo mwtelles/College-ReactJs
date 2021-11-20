@@ -65,6 +65,20 @@
     transform-origin: left center;
 }
 
+.product > h2::after {
+    position: relative;
+    content: "";
+    display: block;
+    width: 5%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    height: 4px;
+    left: 0;
+    text-align: left;
+    background-color: #ff9f1c;
+}
+
+
 .banner__word {
     display: inline-flex;
     overflow: hidden;

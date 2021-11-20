@@ -55,7 +55,7 @@ const Banner = () => {
                 </div>
                 <div className="container-banner banner__container">
                     <h3 className="banner__heading">
-                        {item.titulo}
+                            {item.titulo}
                     </h3>
                 </div>
             </div>

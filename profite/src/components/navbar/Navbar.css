@@ -86,13 +86,23 @@
 }
   
   @media only screen and (max-width: 978px) {
-    .nav_icon {
+    .navbar {
       display: inline;
     }
   }
   
   @media only screen and (max-width: 480px) {
-    .navbar__left {
+    .navbar {
+      display: flex;
+    }
+    .navbar__line {
+      display: none;
+    }
+    .navbar__flags {
+      display: none;
+    }
+    .navbar__account {
       display: none;
     }
   }
+
