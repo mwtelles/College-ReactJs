@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "imagem": "../img/carousel-1.png",
+        "titulo": "Nossa especialidade: experiência de compra."
+    },
+    {
+        "id": 2,
+        "imagem": "../img/carousel-1.png",
+        "titulo": "Nossa especialidade: compra de experiência."
+    },
+    {
+        "id": 3,
+        "imagem": "../img/carousel-1.png",
+        "titulo": "Compra de experiência: nossa  especialidade."
+      },
+      {
+        "id": 4,
+        "imagem": "../img/carousel-1.png",
+        "titulo": "Dá 10 ai Tassio."
+      }
+  ]
